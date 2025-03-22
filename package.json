@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "node make.js serverBuild"
+    "build": "node make.js serverBuild",
     "bump": "node make.js bump",
     "gensprintly": "node make.js gensprintlyzip",
     "test": "node make.js test",
